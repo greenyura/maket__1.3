@@ -214,7 +214,8 @@ body {
         .container__footer {
             padding-left: 9px;
         }
-        .span {display: none;}
+        span {
+            display: none;}
 }
 @media (min-width:1120px) {
     body {
