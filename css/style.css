@@ -126,6 +126,10 @@ body {
   width: 320px;
   height: 176px;
 }
+.container__cps {
+  width: 320px;
+  height: 176px;
+}
 
 @media (min-width: 784px) {
   body {
